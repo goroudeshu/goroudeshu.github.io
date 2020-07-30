@@ -1,0 +1,16 @@
+@charset"utf-8";
+    
+body{font-size: 16px;
+    font-family:serif}
+
+    
+h1{text-align: center;
+    background-color   :#ff7fbf;
+    color:aliceblue;
+    font-family:fantasy;
+    }
+
+ul{list-style: circle }
+a:hover{font-size: 2em;
+        color: #ff7fbf;
+}
